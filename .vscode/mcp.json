@@ -1,0 +1,9 @@
+{
+    "servers": {
+        "fetch-weather": {
+            "type": "stdio",
+            "command": "npx",
+            "args": ["-y", "tsx", "C:\\workspaces\\AI\\MCP\\main.ts"]
+        }
+    }
+}
